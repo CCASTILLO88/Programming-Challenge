@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\Finder\Finder\bin\Debug\Finder.exe.config
+C:\Users\PC\source\repos\Finder\Finder\bin\Debug\Finder.exe
+C:\Users\PC\source\repos\Finder\Finder\bin\Debug\Finder.pdb
+C:\Users\PC\source\repos\Finder\Finder\obj\Debug\Finder.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\Finder\Finder\obj\Debug\Finder.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Finder\Finder\obj\Debug\Finder.exe
+C:\Users\PC\source\repos\Finder\Finder\obj\Debug\Finder.pdb
+C:\Users\CCASTILLO\Desktop\Finder\Finder\bin\Debug\Finder.exe.config
+C:\Users\CCASTILLO\Desktop\Finder\Finder\bin\Debug\Finder.exe
+C:\Users\CCASTILLO\Desktop\Finder\Finder\bin\Debug\Finder.pdb
+C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.csprojAssemblyReference.cache
+C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.csproj.CoreCompileInputs.cache
+C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.exe
+C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.pdb
