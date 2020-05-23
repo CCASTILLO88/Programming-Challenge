@@ -20,7 +20,7 @@ namespace Finder
         private static string YahooUrlQuery = "https://search.yahoo.com/search?p=";
 
         // Expresiones Regulares
-        private static string GoogleRegex = "<div id=\"resultStats\">(.*?)<nobr>";
+        private static string GoogleRegex = "<div id=\"result-stats\">(.*?)<nobr>";
         private static string YahooRegex = @">([,\d]+) results</span>";
 
         // Existirán dos tipos de busquedas, las que van encerradas entre comillas y las que no.

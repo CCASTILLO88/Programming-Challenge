@@ -12,3 +12,10 @@ C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.csprojAssemblyReferenc
 C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.csproj.CoreCompileInputs.cache
 C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.exe
 C:\Users\CCASTILLO\Desktop\Finder\Finder\obj\Debug\Finder.pdb
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\bin\Debug\Finder.exe.config
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\bin\Debug\Finder.exe
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\bin\Debug\Finder.pdb
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\obj\Debug\Finder.csprojAssemblyReference.cache
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\obj\Debug\Finder.csproj.CoreCompileInputs.cache
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\obj\Debug\Finder.exe
+C:\Users\CCASTILLO\Documents\GitHub\Programming-Challenge\Finder\obj\Debug\Finder.pdb
